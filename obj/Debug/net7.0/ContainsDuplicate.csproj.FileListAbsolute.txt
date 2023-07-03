@@ -1,0 +1,15 @@
+/home/david/Documents/Code/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate
+/home/david/Documents/Code/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.deps.json
+/home/david/Documents/Code/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.runtimeconfig.json
+/home/david/Documents/Code/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.dll
+/home/david/Documents/Code/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.pdb
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.csproj.AssemblyReference.cache
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.AssemblyInfoInputs.cache
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.AssemblyInfo.cs
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.csproj.CoreCompileInputs.cache
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.dll
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/refint/ContainsDuplicate.dll
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.pdb
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.genruntimeconfig.cache
+/home/david/Documents/Code/ContainsDuplicate/obj/Debug/net7.0/ref/ContainsDuplicate.dll
