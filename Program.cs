@@ -52,7 +52,7 @@ static bool CheckDuplicateSortScan(List<int> items) {
 
 //Check for duplicates using distinct
 static bool CheckDuplicateDistinct(List<int> items) {
-    return items.Count != items.Distinct().ToList().Count;
+    return items.Count != items.Distinct().Count();
 }
 
 //Check for duplicates using a hash set
