@@ -36,7 +36,8 @@ static bool CheckDuplicateImproved(List<int> items) {
 static bool CheckDuplicateDictionary(List<int> items) {
     var alreadySeen = new Dictionary<int,int> ();
     for(int idx = 0; idx<items.Count; idx++) {
-        try { alreadySeen.Add(items[idx],0); } catch { return true; }  //Dictionary throws exception on dup key
+        if(alreadySeen.ContainsKey(items[idx])) return true;
+        alreadySeen.Add(items[idx],0); 
     }
     return false;
 }
