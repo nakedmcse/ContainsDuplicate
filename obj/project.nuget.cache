@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "auJbHHzT/4UBE93MDYeKH/anM7njXl/ysmmmRqBwlFZLc/+aas4dO6/fEViqSv1nEb/7j6dqJqs/PBysPkIuVg==",
+  "dgSpecHash": "M7AWkmV4AbCUVpkBUkklTA366m++vgfM6gY4fpoBth7iF2pR5oYcA/jdv592QDzCIZvJ+t2CjjOK8XdQlcsjqA==",
   "success": true,
-  "projectFilePath": "/home/david/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj",
+  "projectFilePath": "/Users/walker/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

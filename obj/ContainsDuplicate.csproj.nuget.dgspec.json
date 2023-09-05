@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/david/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj": {}
+    "/Users/walker/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj": {}
   },
   "projects": {
-    "/home/david/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj": {
+    "/Users/walker/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/david/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj",
+        "projectUniqueName": "/Users/walker/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj",
         "projectName": "ContainsDuplicate",
-        "projectPath": "/home/david/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj",
-        "packagesPath": "/home/david/.nuget/packages/",
-        "outputPath": "/home/david/Documents/Code/ContainsDuplicate/obj/",
+        "projectPath": "/Users/walker/Documents/Code/ContainsDuplicate/ContainsDuplicate.csproj",
+        "packagesPath": "/Users/walker/.nuget/packages/",
+        "outputPath": "/Users/walker/Documents/Code/ContainsDuplicate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/david/.nuget/NuGet/NuGet.Config"
+          "/Users/walker/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.108/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
         }
       }
     }
